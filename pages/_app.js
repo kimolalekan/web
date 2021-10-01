@@ -19,7 +19,7 @@ class CustomApp extends App {
           href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"
           rel="stylesheet"
         />
-        <link rel="icon" href="/images/logo-colored.png" />
+        <link rel="icon" href="/images/favicon.png" />
         <Component {...pageProps} />
       </div>
     );
