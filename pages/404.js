@@ -13,7 +13,7 @@ export default class NotFound extends Component {
           <span className="space" />
           <h1 className="rq-text-pink">
             <img src="/images/logo-colored.png" height={50} />
-            <span style={{ position: 'absolute' }}>intimate</span>
+            <span style={{ position: 'relative', top: -5 }}>intimate</span>
           </h1>
           <span className="space" />
           <h3>Oops! Page not found or has been deleted.</h3>
